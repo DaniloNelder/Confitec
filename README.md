@@ -9,7 +9,8 @@ A implementação desse teste deve ser disponibilizada em um repositório Git co
 
 Regras de negócio:
 O resto da divisão do rateio é alocado na primeira parcela;
-A taxa de juros deverá ser aplicado ao valor total (soma das coberturas), utilizando a regra juros compostos:
+A taxa de juros deverá ser aplicado ao valor total (soma das coberturas),
+utilizando a regra juros compostos:
 P = V*(1 + i)^t, onde:
 P = Valor a ser pago 
 V = Valor total
